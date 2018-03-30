@@ -104,7 +104,7 @@ body {
   display: flex;
   justify-content: space-around;
   font-size: 30px;
-  color: crimson;
+  color: firebrick;
   background-color: ghostwhite;
   opacity: .7;
   text-decoration: none;
